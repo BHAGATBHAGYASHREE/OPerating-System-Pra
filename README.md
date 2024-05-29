@@ -51,6 +51,8 @@ pwd).
 8. Write a ZSH script to display the last 20 lines of all .log files in a directory.
 9. Write a ZSH script to rename all .txt files to .bak in a directory.
 10. Write a ZSH script to create a backup of a directory.
+
+
 System Calls and IPC
 
 

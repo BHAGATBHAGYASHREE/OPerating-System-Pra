@@ -4,24 +4,61 @@ Networking
 
 1. Write a client-server program using UDP connection. Exchange a message
 between client and server and close both sockets.
+
+[server](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/userver1.c)
+<img width="1340" alt="Screenshot 2024-05-30 at 1 16 02 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/95dd741b-ed3b-4c0e-b80f-8c681de64c2f">
+[cilent](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/uclient1.c)
+<img width="1340" alt="Screenshot 2024-05-30 at 1 16 44 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/b5ce4d3c-b687-451f-b728-c42f52e244ac">
+
 2. Modify the UDP client-server program to handle multiple messages in a loop
 until the client sends "exit".
+[server](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/userver2.c)
+<img width="1340" alt="Screenshot 2024-05-30 at 1 20 55 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/27f02c6c-c976-46c2-b443-b17780683871">
+[cilent](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/uclient1.c)
+
+<img width="1340" alt="Screenshot 2024-05-30 at 1 21 20 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/c079acb2-3b63-4927-adfb-1d6226df45c5">
+
 3. Write a TCP client-server program where the server reverses the string
 received from the client and sends it back.
+[server](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/server3.c)
+<img width="1340" alt="Screenshot 2024-05-30 at 1 31 46 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/8c0ffe26-8298-4315-8191-866bd9a093f1">
+[cilent](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/uclient3.c)
+<img width="1340" alt="Screenshot 2024-05-30 at 1 32 02 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/6c6a68d7-1224-40bc-bc33-b9da5294f032">
+
 4. Enhance the TCP reverse string server to handle multiple clients using
 threads.
-5. Write a TCP client-server program where the server checks whether a number
-received from the client is even or odd.
-6. Modify the TCP even/odd server to handle client connections in a loop until
-the client sends "exit".
-7. Write a TCP client-server program where the client sends a file name and the
-server sends the contents of the file.
-8. Modify the TCP file transfer server to send a list of available files to the client
-before sending the requested file.
-9. Write a UDP client-server program where the server echoes back any message
-received from the client.
-10. Create a UDP server that handles multiple clients using select() for I/O
-multiplexing.
+[server](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/userver4.c)
+[cilent]()
+
+5. [Write a TCP client-server program where the server checks whether a number
+received from the client is even or odd.]()
+
+[server]()
+[cilent]()
+6. [Modify the TCP even/odd server to handle client connections in a loop until
+the client sends "exit".]()
+
+[server]()
+[cilent]()
+7. [Write a TCP client-server program where the client sends a file name and the
+server sends the contents of the file.]()
+[server]()
+[cilent]()
+
+8. [Modify the TCP file transfer server to send a list of available files to the client
+before sending the requested file.]()
+
+[server]()
+[cilent]()
+9. [Write a UDP client-server program where the server echoes back any message
+received from the client.]()
+[server]()
+[cilent]()
+
+10. [Create a UDP server that handles multiple clients using select() for I/O
+multiplexing.]()
+[server]()
+[cilent]()
 File Handling
 
 

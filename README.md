@@ -14,7 +14,7 @@ between client and server and close both sockets.
 until the client sends "exit".
 [server](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/userver2.c)
 <img width="1340" alt="Screenshot 2024-05-30 at 1 20 55 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/27f02c6c-c976-46c2-b443-b17780683871">
-[cilent](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/uclient1.c)
+[cilent](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/uclient2.c)
 
 <img width="1340" alt="Screenshot 2024-05-30 at 1 21 20 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/c079acb2-3b63-4927-adfb-1d6226df45c5">
 

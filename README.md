@@ -1,4 +1,4 @@
-<img width="999" alt="Screenshot 2024-05-29 at 9 24 04 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/ddc0c0a5-72e0-43c1-aec6-6324006e3084">Networking
+Networking
 
 
 

@@ -40,16 +40,16 @@ File Handling
 File Permissions and Commands
 
 1. [Write a C program to demonstrate the use of chmod system call to set file
-permissions.]()
+permissions.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/exp.c)
 <img width="999" alt="Screenshot 2024-05-29 at 11 16 48 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/f145abe2-b052-41e2-abd7-e5cfd6783927">
 
 
 2. [Write a C program to demonstrate the use of chown system call to change the
-owner of a file.]()
+owner of a file.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/exp1.c)
 <img width="999" alt="Screenshot 2024-05-29 at 11 17 42 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/dff7b1ad-0740-421a-8531-26ab5b7e3a88">
 
 
-3. [Write a C program to demonstrate the use of stat system call to get file status.]()
+3. [Write a C program to demonstrate the use of stat system call to get file status.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/exp3.c)
 
 <img width="999" alt="Screenshot 2024-05-29 at 11 18 28 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/30935879-05b0-4ed3-aa56-4fdcb976567c">
 
@@ -76,7 +76,7 @@ pwd).
 
 <img width="1005" alt="Screenshot 2024-05-29 at 11 50 48 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/e7ac77ff-181e-40dc-811b-d93767031678">
 
-6. [Write a ZSH script to list all files in the current directory with their sizes].()
+6. [Write a ZSH script to list all files in the current directory with their sizes].(https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/one.zsh)
 
 
 <img width="1005" alt="Screenshot 2024-05-29 at 11 58 23 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/5ac21a1e-3610-4583-97fc-730e8ef0501c">
@@ -85,21 +85,21 @@ pwd).
 
 
 
-7. [Write a ZSH script to find and delete all files with a .tmp extension.]()
+7. [Write a ZSH script to find and delete all files with a .tmp extension.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/exp7.zsh)
 
 <img width="1005" alt="Screenshot 2024-05-30 at 12 06 43 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/23fba5a1-2710-449e-979b-82546b43c4c8">
 
 
-8. [Write a ZSH script to display the last 20 lines of all .log files in a directory.]()
+8. [Write a ZSH script to display the last 20 lines of all .log files in a directory.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/exp8.zsh)
 <img width="1106" alt="Screenshot 2024-05-30 at 12 10 50 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/9f9e03bd-6b77-427e-8ed8-ed57596717b7">
 
 
-9. [Write a ZSH script to rename all .txt files to .bak in a directory.]()
+9. [Write a ZSH script to rename all .txt files to .bak in a directory.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/exp9.zsh)
 
 <img width="1340" alt="Screenshot 2024-05-30 at 12 13 16 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/2e49e066-807a-460f-a983-41542ce51e1a">
 
 
-10. [Write a ZSH script to create a backup of a directory.]()
+10. [Write a ZSH script to create a backup of a directory.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/exp10.zsh)
 
 <img width="1340" alt="Screenshot 2024-05-30 at 12 14 31 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/6a586533-23a3-4c27-847c-1dc7af6f7a47">
 

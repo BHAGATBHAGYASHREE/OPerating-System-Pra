@@ -60,7 +60,7 @@ System Calls and IPC
 1. [Write a C program to illustrate the concept of dup system call.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example.c)
    <img width="999" alt="Screenshot 2024-05-29 at 9 25 07 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/6d906325-770f-465c-b293-e4ff555afc11">
 
-2.[ Write a C program to illustrate the concept of fork system call.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example2.c)
+2. [ Write a C program to illustrate the concept of fork system call.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example2.c)
    <img width="999" alt="Screenshot 2024-05-29 at 9 24 54 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/4d9fe847-f850-4c74-aa45-c3284e267e9b">
 
 3. [Write a C program to illustrate the concept of wait system call.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example3.c)
@@ -70,7 +70,7 @@ System Calls and IPC
    <img width="999" alt="Screenshot 2024-05-29 at 10 24 10 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/d58fef4a-7576-4cc3-a573-bbf2f5c77f59">
 
 5. [Write a C program to demonstrate inter-process communication (IPC) using
-pipes.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example5.c)
+   pipes.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example5.c)
    <img width="999" alt="Screenshot 2024-05-29 at 10 31 59 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/adc77a22-d37e-4ec1-863c-a2550936ea77">
 
 6. [Write a C program to demonstrate IPC using message queues.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example6.c)
@@ -85,12 +85,12 @@ pipes.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/exam
    <img width="999" alt="Screenshot 2024-05-29 at 10 47 56 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/efd85fe7-87c5-4799-9906-13ebe2917eea">
 
 9. [Write a C program to create a child process that runs a different program
-using exec().](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example9.c)
+   using exec().](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example9.c)
    <img width="999" alt="Screenshot 2024-05-29 at 10 49 37 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/392ca250-3407-420b-8527-39879731fdec">
 
 
 10. [Write a C program to handle the SIGINT signal and print a message when it is
-received.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example10.c)
+    received.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example10.c)
    <img width="999" alt="Screenshot 2024-05-29 at 10 51 26 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/2a3964a0-03de-43ad-bb3c-eedd3a3cd81b">
 
    

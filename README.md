@@ -26,16 +26,46 @@ File Handling
 
 
 
-1. Write a C program to open a text file and read the first 10 bytes.
-2. Write a C program to create, open, and close a text file.
-3. Write a C program to open a text file and read the last 10 bytes.
-4. Write a C program to demonstrate the use of any 5 modes to open a text file.
-5. Write a C program to write "Hello, World!" to a new text file.
-6. Write a C program to append "End of File" to an existing text file.
-7. Write a C program to read a file line by line and print each line.
-8. Write a C program to copy the contents of one file to another.
-9. Write a C program to count the number of lines in a text file.
-10. Write a C program to check if a file exists before attempting to open it.
+1.[ Write a C program to open a text file and read the first 10 bytes.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/num1.c)
+
+<img width="1340" alt="Screenshot 2024-05-30 at 12 34 27 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/f40520a5-5ec5-43aa-8381-2c05379b6147">
+
+
+2.[Write a C program to create, open, and close a text file.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/num2.c)
+
+<img width="1340" alt="Screenshot 2024-05-30 at 12 36 02 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/b998f696-b07a-40ce-9483-fc9ec99b359c">
+
+3. [Write a C program to open a text file and read the last 10 bytes.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/num3.c)
+
+<img width="1340" alt="Screenshot 2024-05-30 at 12 37 15 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/e7713ce7-6da3-4438-a41e-fff7fcbeb776">
+
+4. [Write a C program to demonstrate the use of any 5 modes to open a text file.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/num4.c)
+
+<img width="1340" alt="Screenshot 2024-05-30 at 12 43 07 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/bdd7d7df-970e-427a-8151-0791048a658f">
+
+5. [Write a C program to write "Hello, World!" to a new text file.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/num5.c)
+
+<img width="1340" alt="Screenshot 2024-05-30 at 12 44 27 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/dc3da56f-07e8-48b1-9b04-6600eebf2525">
+
+6. [Write a C program to append "End of File" to an existing text file.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/num6.c)
+<img width="1340" alt="Screenshot 2024-05-30 at 12 45 34 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/f51139e0-077f-43c8-b43b-923255059f0d">
+
+
+7. [Write a C program to read a file line by line and print each line.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/num7.c)
+
+<img width="1340" alt="Screenshot 2024-05-30 at 12 47 53 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/c3f841b0-cc81-4384-a8e9-3d1c50e6e932">
+
+
+8. [Write a C program to copy the contents of one file to another.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/num8.c)
+
+<img width="1340" alt="Screenshot 2024-05-30 at 12 50 08 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/9ca7f6aa-ebd9-478f-8027-33415a73e503">
+
+9. [Write a C program to count the number of lines in a text file.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/num9.c)
+
+<img width="1340" alt="Screenshot 2024-05-30 at 12 51 25 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/c5dfc6b7-7fdb-4315-976a-db4fed5141d7">
+
+10. [Write a C program to check if a file exists before attempting to open it.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/num10.c)
+<img width="1340" alt="Screenshot 2024-05-30 at 12 52 19 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/66e7e4d5-a275-4b78-8e74-826cc4365399">
 
 File Permissions and Commands
 
@@ -53,7 +83,7 @@ owner of a file.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob
 
 <img width="999" alt="Screenshot 2024-05-29 at 11 18 28 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/30935879-05b0-4ed3-aa56-4fdcb976567c">
 
-4. [Demonstrate any 5 file commands on ZSH shell (e.g., cat, head, tail, cp, rm).]()
+4. Demonstrate any 5 file commands on ZSH shell (e.g., cat, head, tail, cp, rm).
 <img width="999" alt="Screenshot 2024-05-29 at 11 20 10 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/2a35fbcf-d61e-406e-b3f6-1e82fe96ea73">
 
 <img width="999" alt="Screenshot 2024-05-29 at 11 23 12 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/fcf9207b-7bf5-4a0e-9f75-978b590476c5">
@@ -76,7 +106,7 @@ pwd).
 
 <img width="1005" alt="Screenshot 2024-05-29 at 11 50 48 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/e7ac77ff-181e-40dc-811b-d93767031678">
 
-6. [Write a ZSH script to list all files in the current directory with their sizes].(https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/one.zsh)
+6. [Write a ZSH script to list all files in the current directory with their sizes](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/one.zsh)
 
 
 <img width="1005" alt="Screenshot 2024-05-29 at 11 58 23 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/5ac21a1e-3610-4583-97fc-730e8ef0501c">

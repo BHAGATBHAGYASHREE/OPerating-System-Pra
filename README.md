@@ -12,53 +12,111 @@ between client and server and close both sockets.
 
 2. Modify the UDP client-server program to handle multiple messages in a loop
 until the client sends "exit".
+
 [server](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/userver2.c)
 <img width="1340" alt="Screenshot 2024-05-30 at 1 20 55 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/27f02c6c-c976-46c2-b443-b17780683871">
-[cilent](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/uclient2.c)
 
+[cilent](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/uclient2.c)
 <img width="1340" alt="Screenshot 2024-05-30 at 1 21 20 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/c079acb2-3b63-4927-adfb-1d6226df45c5">
 
 3. Write a TCP client-server program where the server reverses the string
 received from the client and sends it back.
+
+
 [server](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/server3.c)
 <img width="1340" alt="Screenshot 2024-05-30 at 1 31 46 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/8c0ffe26-8298-4315-8191-866bd9a093f1">
+
 [cilent](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/uclient3.c)
 <img width="1340" alt="Screenshot 2024-05-30 at 1 32 02 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/6c6a68d7-1224-40bc-bc33-b9da5294f032">
 
 4. Enhance the TCP reverse string server to handle multiple clients using
 threads.
+
+
 [server](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/userver4.c)
-[cilent]()
+
+<img width="1340" alt="Screenshot 2024-05-30 at 1 50 21 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/56382b34-182c-485f-aa16-03163345dfed">
+
+
+
 
 5. [Write a TCP client-server program where the server checks whether a number
 received from the client is even or odd.]()
 
+
 [server]()
+
+<img width="1340" alt="Screenshot 2024-05-30 at 1 55 06 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/e3a66985-c9f6-4d3a-bbd1-10a24adae332">
+
 [cilent]()
+
+<img width="1340" alt="Screenshot 2024-05-30 at 1 55 19 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/9555a718-0717-4c05-b870-77f4a725c24d">
+
+
 6. [Modify the TCP even/odd server to handle client connections in a loop until
 the client sends "exit".]()
 
 [server]()
+
+<img width="1340" alt="Screenshot 2024-05-30 at 2 00 55 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/a8666a43-f417-4e83-8bc2-0a714bab08e6">
+
+
+
 [cilent]()
+<img width="1340" alt="Screenshot 2024-05-30 at 2 01 26 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/18f357ef-55dd-495b-ad6e-da9be80d30c5">
+
+
 7. [Write a TCP client-server program where the client sends a file name and the
 server sends the contents of the file.]()
 [server]()
+<img width="1340" alt="Screenshot 2024-05-30 at 2 06 09 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/f9b79c0b-0f78-4154-9f66-c001f3065e5c">
+
+
+
 [cilent]()
+
+<img width="1340" alt="Screenshot 2024-05-30 at 2 06 26 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/dfe4e840-8e36-4935-9545-970eaa0c8a2e">
+
 
 8. [Modify the TCP file transfer server to send a list of available files to the client
 before sending the requested file.]()
 
 [server]()
+<img width="1340" alt="Screenshot 2024-05-30 at 2 10 53 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/76f66843-d13b-459c-81b9-eb13e65ffdff">
+
+
+
 [cilent]()
+<img width="1340" alt="Screenshot 2024-05-30 at 2 11 06 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/7e2d988e-6c44-4af2-a1cb-cdf71e959e7b">
+
+
+
+
 9. [Write a UDP client-server program where the server echoes back any message
 received from the client.]()
+
 [server]()
+<img width="1340" alt="Screenshot 2024-05-30 at 2 15 27 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/58e609a5-6d8f-47a8-8a8a-5a3b54ce30c5">
+
+
+
+
+
 [cilent]()
+<img width="1340" alt="Screenshot 2024-05-30 at 2 15 44 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/04fb58d2-446e-4465-a803-9875a49915d1">
 
 10. [Create a UDP server that handles multiple clients using select() for I/O
 multiplexing.]()
+
+
 [server]()
+<img width="1340" alt="Screenshot 2024-05-30 at 2 20 46 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/1e161a43-271c-4b07-b54e-9a20a032078f">
+
+
 [cilent]()
+<img width="1340" alt="Screenshot 2024-05-30 at 2 21 01 AM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/e487963c-d649-4fc6-8507-ee8a27a1fe34">
+
+
 File Handling
 
 

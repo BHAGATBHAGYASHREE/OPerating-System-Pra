@@ -63,42 +63,42 @@ System Calls and IPC
 2.[ Write a C program to illustrate the concept of fork system call.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example2.c)
    <img width="999" alt="Screenshot 2024-05-29 at 9 24 54 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/4d9fe847-f850-4c74-aa45-c3284e267e9b">
 
-3. [Write a C program to illustrate the concept of wait system call.]()
+3. [Write a C program to illustrate the concept of wait system call.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example3.c)
 
 <img width="999" alt="Screenshot 2024-05-29 at 10 19 37 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/0c4f531c-9223-44f4-bdb5-bff4de5d1ccd">
 
-4. [Write a C program to illustrate the concept of signal system call.]()
+4. [Write a C program to illustrate the concept of signal system call.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example4.c)
 
    <img width="999" alt="Screenshot 2024-05-29 at 10 24 10 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/d58fef4a-7576-4cc3-a573-bbf2f5c77f59">
 
 5. [Write a C program to demonstrate inter-process communication (IPC) using
-pipes.]()
+pipes.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example5.c)
 <img width="999" alt="Screenshot 2024-05-29 at 10 31 59 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/adc77a22-d37e-4ec1-863c-a2550936ea77">
 
-6. [Write a C program to demonstrate IPC using message queues.]()
+6. [Write a C program to demonstrate IPC using message queues.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example6.c)
 
    <img width="999" alt="Screenshot 2024-05-29 at 10 44 24 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/d3b5da89-8c2b-46b8-a7ab-557f0e99275e">
 
-7. [Write a C program to demonstrate IPC using shared memory.]()
+7. [Write a C program to demonstrate IPC using shared memory.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example7.c)
 
 
 <img width="999" alt="Screenshot 2024-05-29 at 10 42 43 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/a835f03f-2489-49e5-984f-cbb4b0ea4586">
 
 
         
-8. [Write a C program to demonstrate IPC using semaphores.]()
+8. [Write a C program to demonstrate IPC using semaphores.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example8.c)
 
    <img width="999" alt="Screenshot 2024-05-29 at 10 47 56 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/efd85fe7-87c5-4799-9906-13ebe2917eea">
 
 9. [Write a C program to create a child process that runs a different program
-using exec().]()
+using exec().](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example9.c)
 
 
 <img width="999" alt="Screenshot 2024-05-29 at 10 49 37 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/392ca250-3407-420b-8527-39879731fdec">
 
 
 10. [Write a C program to handle the SIGINT signal and print a message when it is
-received.]()
+received.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example10.c)
 
 
   <img width="999" alt="Screenshot 2024-05-29 at 10 51 26 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/2a3964a0-03de-43ad-bb3c-eedd3a3cd81b">

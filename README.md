@@ -75,30 +75,41 @@ System Calls and IPC
 pipes.]()
 <img width="999" alt="Screenshot 2024-05-29 at 10 31 59 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/adc77a22-d37e-4ec1-863c-a2550936ea77">
 
-10. [Write a C program to demonstrate IPC using message queues.]()
+6. [Write a C program to demonstrate IPC using message queues.]()
 
-    
-12. [Write a C program to demonstrate IPC using shared memory.]()
+   <img width="999" alt="Screenshot 2024-05-29 at 10 44 24 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/d3b5da89-8c2b-46b8-a7ab-557f0e99275e">
 
-    
-14. [Write a C program to demonstrate IPC using semaphores.]()
+7. [Write a C program to demonstrate IPC using shared memory.]()
 
-   
-16. [Write a C program to create a child process that runs a different program
+
+<img width="999" alt="Screenshot 2024-05-29 at 10 42 43 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/a835f03f-2489-49e5-984f-cbb4b0ea4586">
+
+
+        
+8. [Write a C program to demonstrate IPC using semaphores.]()
+
+   <img width="999" alt="Screenshot 2024-05-29 at 10 47 56 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/efd85fe7-87c5-4799-9906-13ebe2917eea">
+
+9. [Write a C program to create a child process that runs a different program
 using exec().]()
 
 
-18. [Write a C program to handle the SIGINT signal and print a message when it is
+<img width="999" alt="Screenshot 2024-05-29 at 10 49 37 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/392ca250-3407-420b-8527-39879731fdec">
+
+
+10. [Write a C program to handle the SIGINT signal and print a message when it is
 received.]()
 
 
+  <img width="999" alt="Screenshot 2024-05-29 at 10 51 26 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/2a3964a0-03de-43ad-bb3c-eedd3a3cd81b">
+
+   
+    Text Processing
 
 
-Text Processing
+    
 1. Demonstrate any 5 AWK commands on ZSH shell.
-     1. Print Line Numbers
-  
-        
+     1. Print Line Numbers    
      Command: Print each line of a file with its line number.
 
 

@@ -1,4 +1,4 @@
-Networking
+<img width="999" alt="Screenshot 2024-05-29 at 9 24 04 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/ddc0c0a5-72e0-43c1-aec6-6324006e3084">Networking
 
 
 
@@ -58,18 +58,22 @@ System Calls and IPC
 
 
 1. [Write a C program to illustrate the concept of dup system call.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example.c)
-2. Write a C program to illustrate the concept of fork system call.
-3. Write a C program to illustrate the concept of wait system call.
-4. Write a C program to illustrate the concept of signal system call.
-5. Write a C program to demonstrate inter-process communication (IPC) using
-pipes.
-6. Write a C program to demonstrate IPC using message queues.
-7. Write a C program to demonstrate IPC using shared memory.
-8. Write a C program to demonstrate IPC using semaphores.
-9. Write a C program to create a child process that runs a different program
-using exec().
-10. Write a C program to handle the SIGINT signal and print a message when it is
-received.
+   <img width="999" alt="Screenshot 2024-05-29 at 9 25 07 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/6d906325-770f-465c-b293-e4ff555afc11">
+
+2.[ Write a C program to illustrate the concept of fork system call.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example2.c)
+   <img width="999" alt="Screenshot 2024-05-29 at 9 24 54 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/4d9fe847-f850-4c74-aa45-c3284e267e9b">
+
+4. [Write a C program to illustrate the concept of wait system call.]()
+5. [Write a C program to illustrate the concept of signal system call.]()
+6. [Write a C program to demonstrate inter-process communication (IPC) using
+pipes.]()
+7. [Write a C program to demonstrate IPC using message queues.]()
+8. [Write a C program to demonstrate IPC using shared memory.]()
+9. [Write a C program to demonstrate IPC using semaphores.]()
+10. [Write a C program to create a child process that runs a different program
+using exec().]()
+11. [Write a C program to handle the SIGINT signal and print a message when it is
+received.]()
 
 
 

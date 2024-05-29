@@ -55,7 +55,7 @@ System Calls and IPC
 
 
 
-1. [Write a C program to illustrate the concept of dup system call.]()
+1. [Write a C program to illustrate the concept of dup system call.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example.c)
 2. Write a C program to illustrate the concept of fork system call.
 3. Write a C program to illustrate the concept of wait system call.
 4. Write a C program to illustrate the concept of signal system call.

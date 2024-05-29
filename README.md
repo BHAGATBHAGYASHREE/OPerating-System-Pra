@@ -63,16 +63,32 @@ System Calls and IPC
 2.[ Write a C program to illustrate the concept of fork system call.](https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/blob/main/example2.c)
    <img width="999" alt="Screenshot 2024-05-29 at 9 24 54 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/4d9fe847-f850-4c74-aa45-c3284e267e9b">
 
-4. [Write a C program to illustrate the concept of wait system call.]()
-5. [Write a C program to illustrate the concept of signal system call.]()
-6. [Write a C program to demonstrate inter-process communication (IPC) using
+3. [Write a C program to illustrate the concept of wait system call.]()
+
+<img width="999" alt="Screenshot 2024-05-29 at 10 19 37 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/0c4f531c-9223-44f4-bdb5-bff4de5d1ccd">
+
+4. [Write a C program to illustrate the concept of signal system call.]()
+
+   <img width="999" alt="Screenshot 2024-05-29 at 10 24 10 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/d58fef4a-7576-4cc3-a573-bbf2f5c77f59">
+
+5. [Write a C program to demonstrate inter-process communication (IPC) using
 pipes.]()
-7. [Write a C program to demonstrate IPC using message queues.]()
-8. [Write a C program to demonstrate IPC using shared memory.]()
-9. [Write a C program to demonstrate IPC using semaphores.]()
-10. [Write a C program to create a child process that runs a different program
+<img width="999" alt="Screenshot 2024-05-29 at 10 31 59 PM" src="https://github.com/BHAGATBHAGYASHREE/OPerating-System-Pra/assets/142775493/adc77a22-d37e-4ec1-863c-a2550936ea77">
+
+10. [Write a C program to demonstrate IPC using message queues.]()
+
+    
+12. [Write a C program to demonstrate IPC using shared memory.]()
+
+    
+14. [Write a C program to demonstrate IPC using semaphores.]()
+
+   
+16. [Write a C program to create a child process that runs a different program
 using exec().]()
-11. [Write a C program to handle the SIGINT signal and print a message when it is
+
+
+18. [Write a C program to handle the SIGINT signal and print a message when it is
 received.]()
 
 
